@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/shivanshmmt/mmttestholidays/gin-bookstore/models"
+	"github.com/shivanshmmt/mmttestholidays/models"
 )
 
 type CreateBookInput struct {
